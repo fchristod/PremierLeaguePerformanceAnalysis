@@ -14,7 +14,7 @@ Original Dataset: https://www.kaggle.com/datasets/davidcariboo/player-scores/dat
 
 Our project presents a comprehensive analysis of team and player performance in the Premier League, offering invaluable insights to optimize strategic decisions and elevate team performance. Through meticulous data-driven approaches and detailed analysis, we empower stakeholders to make informed decisions, enhance team cohesion, and chart a course towards sustained success on the football pitch. 
 
-The main idea is that the user can insert the name of the team he wants to be analyzed and see important quantitative details about the squad and coach performance! In this repository you can see examples for the analysis of Manchester United!
+The main idea is that the user can insert the name of the team he wants to be analyzed and see important quantitative details about the squad and coach performance! In this repository you can see examples for the analysis of Manchester United! If you want to use this notebook locally you have to download the dataset files from kaggle!
 
 # Chapter 1: Introduction
 
