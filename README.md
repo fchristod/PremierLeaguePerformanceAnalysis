@@ -1,6 +1,8 @@
 # PremierLeaguePerformanceAnalysis
 Footbal Data Analysis Project about League's, Team's and Player's Performance
 
+Visit here to see all the results: https://nbviewer.org/github/fchristod/PremierLeaguePerformanceAnalysis/blob/main/EPL_League%26Team_Analysis.ipynb
+
 © Christodoulos Ferentinos, 2024
 
 Contact: xrisfere@gmail.com
